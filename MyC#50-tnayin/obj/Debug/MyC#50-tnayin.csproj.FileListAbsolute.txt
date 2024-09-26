@@ -1,0 +1,7 @@
+C:\Users\MyASUS\source\repos\MyC#50-tnayin\MyC#50-tnayin\bin\Debug\MyC#50-tnayin.exe.config
+C:\Users\MyASUS\source\repos\MyC#50-tnayin\MyC#50-tnayin\bin\Debug\MyC#50-tnayin.exe
+C:\Users\MyASUS\source\repos\MyC#50-tnayin\MyC#50-tnayin\bin\Debug\MyC#50-tnayin.pdb
+C:\Users\MyASUS\source\repos\MyC#50-tnayin\MyC#50-tnayin\obj\Debug\MyC#50-tnayin.csproj.AssemblyReference.cache
+C:\Users\MyASUS\source\repos\MyC#50-tnayin\MyC#50-tnayin\obj\Debug\MyC#50-tnayin.csproj.CoreCompileInputs.cache
+C:\Users\MyASUS\source\repos\MyC#50-tnayin\MyC#50-tnayin\obj\Debug\MyC#50-tnayin.exe
+C:\Users\MyASUS\source\repos\MyC#50-tnayin\MyC#50-tnayin\obj\Debug\MyC#50-tnayin.pdb
