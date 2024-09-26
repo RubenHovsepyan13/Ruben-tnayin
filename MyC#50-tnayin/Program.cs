@@ -111,7 +111,8 @@ namespace MyC_50_tnayin
                 }
             }
 
-            Console.WriteLine("add");
+            Console.WriteLine("add ");
+
 
         }
     }
